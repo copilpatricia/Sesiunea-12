@@ -1,3 +1,14 @@
 /* Header */
+nav {
+    background-color: rebeccapurple;
+}
+
 /* Main */
+nav {
+background-color: aliceblue;
+}
+
 /* Footer */
+footer {
+    color: red;
+}
